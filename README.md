@@ -1,6 +1,6 @@
 ## Bitcoin Forwarding Service
 
-This is an implementation of bitcoinj's https://bitcoinj.github.io/ library to use a bitcoin forwarding service. This uses the wallet kit similar in their example but wraps it into a BitcoinForwarder object for easier readability and usability
+This is an implementation of bitcoinj's https://bitcoinj.github.io/ library to use a bitcoin forwarding service. This uses the wallet kit similar in their example but wraps it into a BitcoinForwarder object for easier readability and usability. THIS RUNS ON THE TESTNET ONLY. I purposely didn't put an option to run on mainnet because this is just for learning purposes.
 
 ## Motivation
 
